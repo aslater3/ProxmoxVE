@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2025 community-scripts ORG
+# Copyright (c) 2021-2025 aslater3 ORG
 # Author: kristocopani
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/aslater3/ProxmoxVE/raw/main/LICENSE
 
 source /dev/stdin <<<"$FUNCTIONS_FILE_PATH"
 color
@@ -45,7 +45,7 @@ pages:
                   - title: Google
                     url: https://www.google.com/
                   - title: Helper Scripts
-                    url: https://github.com/community-scripts/ProxmoxVE
+                    url: https://github.com/aslater3/ProxmoxVE
 EOF
 
 echo "${RELEASE}" >"/opt/${APPLICATION}_version.txt"

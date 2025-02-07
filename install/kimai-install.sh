@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2025 community-scripts ORG
+# Copyright (c) 2021-2025 aslater3 ORG
 # Author: MickLesk
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE

@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2025 community-scripts ORG
+# Copyright (c) 2021-2025 aslater3 ORG
 # Author: davalanche
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/aslater3/ProxmoxVE/raw/main/LICENSE
 # Source: https://github.com/mylar3/mylar3
 
 source /dev/stdin <<< "$FUNCTIONS_FILE_PATH"

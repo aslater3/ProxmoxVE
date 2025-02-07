@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/build.func)
-# Copyright (c) community-scripts ORG
+source <(curl -s https://raw.githubusercontent.com/aslater3/ProxmoxVE/main/misc/build.func)
+# Copyright (c) aslater3 ORG
 # Author: Michelle Zitzerman (Sinofage)
-# License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# License: MIT | https://github.com/aslater3/ProxmoxVE/raw/main/LICENSE
 # Source: https://beszel.dev/
 
 # App Default Values

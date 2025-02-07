@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2025 community-scripts ORG
+# Copyright (c) 2021-2025 aslater3 ORG
 # Author: CrazyWolf13
 # License: MIT
 # Source: Proxmox Server Solution GmbH

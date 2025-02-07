@@ -11,7 +11,7 @@
 
 
 # Set default reviewers
-*                                                                           @community-scripts/Contributor
+*                                                                           @aslater3/Contributor
 
 # All changes in frontend
-/frontend/                                                                  @community-scripts/Frontend-Dev
+/frontend/                                                                  @aslater3/Frontend-Dev
